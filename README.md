@@ -1,4 +1,6 @@
-👋 Hi, I’m Max
----
-graduate engineer | design aficionado | automotive enthusiast | tech-savvy | Munich
+## Max Wilfinger
 
+**Engineer • Founder • Design-minded Builder**
+
+Working at the intersection of hardware, digital tools, and design.
+Currently contributing to [FreeCAD](https://github.com/FreeCAD/FreeCAD).
